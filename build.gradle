@@ -14,11 +14,6 @@ allprojects {
     repositories {
         jcenter()
     }
-dependencies {
-    compile files ("libs/AndroidSupportV4.jar")        --NEW LINE
-    compile 'com.googlecode.android-query:android-query:0.25.9'
-    compile 'com.github.castorflex.smoothprogressbar:library:0.5.2'
-}
     
 }
 
